@@ -61,6 +61,8 @@ We follow a strict **Modular Commit** philosophy to ensure history is readable a
 
 ## 🧪 Development Workflow
 
+> **Need to run the whole stack?** If your work requires testing across the contracts, backend, and frontend simultaneously, please see our [Local Development Guide](DEVELOPMENT.md) for the end-to-end setup.
+
 1. **Fork & Clone**: Fork this repo and clone it locally.
 2. **Branch**: Create a feature branch from `main`:
    ```bash
